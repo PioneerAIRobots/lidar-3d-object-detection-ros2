@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+models/*.onnx
+models/*.yaml
+results/
+*.db3
+*.mcap
